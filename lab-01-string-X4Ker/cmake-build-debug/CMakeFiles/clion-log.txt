@@ -1,0 +1,12 @@
+/snap/clion/61/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/x4cker/lab-01-string-X4Ker
+CMake Error at CMakeLists.txt:14 (include):
+  include could not find load file:
+
+    tools/gate/cmake/HunterGate.cmake
+
+
+CMake Error at CMakeLists.txt:16 (huntergate):
+  Unknown CMake command "huntergate".
+
+
+-- Configuring incomplete, errors occurred!
